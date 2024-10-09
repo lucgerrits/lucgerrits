@@ -1,9 +1,12 @@
-# Hello, I'm Luc ! 👋
+# Hi, I'm Luc ! 👋
 
-## 👨‍💻 About Me
-I'm an smbedded systems and blockchain developer. I have a PhD in Electronics from Université Côte-d’Azur, focusing on integrating blockchain technology with IoT devices.
+## 👨‍💻 Interests
 
-Currently, I'm exploring the frontier between decentralized technologies and practical applications. I'm passionate about open-source projects and the potential of blockchain to revolutionize various industries.
+- Blockchain Applications – Development of secure, scalable blockchain solutions for real-world use cases such as sustainability, IP protection, and tokenization of assets.
+- IoT-Blockchain Integration – Enhancing IoT devices with blockchain for improved security and efficiency in sectors like automotive and critical infrastructures.
+- Distributed Systems – Building fault-tolerant, decentralized systems across multi-chain architectures.
+- Digital Assets – Secure management and application of digital assets and cryptocurrencies in various industries.
+- R&D and Innovation – Focus on research-driven innovation, particularly in emerging technologies.
 
 ## 🌐 Social Links
 - Personal Website: [luc.gerrits.xyz](https://luc.gerrits.xyz)
